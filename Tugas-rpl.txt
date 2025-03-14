@@ -1,0 +1,2 @@
+- Menentukan Kebutuhan User
+- Membuat Database
